@@ -1,4 +1,6 @@
 .post {
+  margin-bottom: $lg-margin;
+
   h3 {
     border-bottom: 1px solid #ddd;
     font-size: 16px;
@@ -8,6 +10,20 @@
 
   p {
     margin-bottom: $md-margin;
+  }
+}
+
+.post-members {
+  margin-bottom: $md-margin;
+
+  ul {
+    margin: 0;
+  }
+
+  p {
+    color: $text-color;
+    text-align: center;
+    margin: 2px 0 0;
   }
 }
 

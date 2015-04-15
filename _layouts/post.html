@@ -23,7 +23,7 @@ layout: default
           <span>{{ page.duration }}</span>
         </li>
       </ul>
-      <p class="post-description">
+      <p class="post-excerpt">
         {{ page.description }}
       </p>
       <div class="post-members">
@@ -33,6 +33,9 @@ layout: default
             <li>
               <a href="//twitter.com/{{ member }}">
                 <img class="member-img" src="{{ site.members[member].icon }}">
+                <p>
+                  {{ member }}
+                </p>
               </a>
             </li>
           {% endfor %}
@@ -44,5 +47,3 @@ layout: default
     </div>
   </div>
 </div>
-
-{% include notice.html %}
