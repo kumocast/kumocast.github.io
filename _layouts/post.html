@@ -1,0 +1,48 @@
+---
+layout: default
+---
+<div class="post">
+  <div class="row">
+    <div class="post-number col-xs-1">
+      {{ page.number }}
+    </div>
+    <div class="col-xs-11">
+      <h2 class="post-title">
+        {{ page.title }}
+      </h2>
+      <audio style="width: 100%" src="sample/sample.ogg" controls>
+        <p>音声を再生するには、audioタグをサポートしたブラウザが必要です。</p>
+      </audio>
+      <ul class="list-inline post-meta">
+        <li class="post-date">
+          <span class="post-date-title">投稿日時：</span>
+          <span>{{ page.date | date: "%Y年%-m月%-d日" }}</span>
+        </li>
+        <li class="post-duration">
+          <span class="post-duration-title">時間：</span>
+          <span>{{ page.duration }}</span>
+        </li>
+      </ul>
+      <p class="post-description">
+        {{ page.description }}
+      </p>
+      <div class="post-members">
+        <h3 class="post-member">出演者</h3>
+        <ul class="list-inline">
+          {% for member in page.members %}
+            <li>
+              <a href="//twitter.com/{{ member }}">
+                <img class="member-img" src="{{ site.members[member].icon }}">
+              </a>
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+      <div class="post-shownotes">
+        {{ page.content | markdownify }}
+      </div>
+    </div>
+  </div>
+</div>
+
+{% include notice.html %}

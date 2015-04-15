@@ -1,0 +1,32 @@
+.notice {
+  background: #f9f9f9;
+  border: 1px solid #f0f0f0;
+  border-radius: 4px;
+  padding: $md-margin;
+}
+
+.notice-icon {
+  display: inline-block;
+  font-size: 24px;
+}
+
+.notice-body {
+  display: inline-block;
+  margin-left: $md-margin;
+}
+
+.notice-title {
+  color: #111;
+  font-weight: bold;
+}
+
+.castedly-link {
+  background: #0074d9;
+  border-radius: 3px;
+  color: #b3dcff;
+  padding: 5px;
+
+  &:hover {
+    text-decoration: none;
+  }
+}

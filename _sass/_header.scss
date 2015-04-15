@@ -1,0 +1,49 @@
+header {
+  background-image: url("../img/cover.jpg");
+  background-position: center center;
+  background-size: cover;
+  color: #685800;
+  color: #fff;
+  text-shadow: 1px 1px 1px #222;
+  padding: $lg-margin 0;
+  margin-bottom: $lg-margin;
+  text-align: center;
+}
+
+.site-title {
+  background-image: url("../img/qqq.png");
+  background-size: 80px;
+  background-position: top center;
+  background-repeat: no-repeat;
+  margin: $md-margin 0;
+  padding: 104px 0 0;
+}
+
+.site-link {
+  color: #685800;
+  color: #fff;
+  font-weight: bold;
+
+  &:visited {
+    color: #685800;
+    color: #fff;
+  }
+}
+
+.site-desc {
+  font-size: 16px;
+  margin-bottom: $lg-margin;
+}
+
+.site-nav {
+  a {
+    border-radius: 4px;
+    color: #fff;
+    padding: 2px 4px;
+
+    &:hover {
+      background: rgba(0, 0, 0, 0.3);
+      text-decoration: none;
+    }
+  }
+}

@@ -1,0 +1,53 @@
+.post-list {
+  list-style: none;
+  margin: 0;
+
+  .post {
+    border-color: #ddd;
+    border-style: solid;
+    border-width: 1px 0 0 0;
+
+    &:first-child {
+      border: none;
+    }
+  }
+}
+
+.post-link {
+  display: block;
+  padding: $md-margin 0;
+
+  &:hover {
+  }
+
+  &:visited {
+    color: $brand-color;
+  }
+}
+
+.post-number {
+  font-size: 28px;
+  font-weight: bold;
+  text-align: right;
+}
+
+.post-title {
+  color: #001f3f;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.post-excerpt, .post-content {
+  font-size: 15px;
+  color: #555;
+}
+
+.post-meta {
+  color: #555;
+  font-size: 14px;
+  text-align: right;
+}
+
+.post-date-title, .post-duration-title {
+  font-weight: bold;
+}
