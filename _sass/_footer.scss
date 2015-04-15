@@ -1,5 +1,18 @@
 footer {
   background: #001f3f;
   color: #7fbfff;
-  padding: $lg-margin 0;
+  padding: $md-margin 0;
+
+  a {
+    color: #4ca6ff;
+
+    &:visited {
+      color: #2a95ff;
+    }
+  }
+}
+
+.copyright {
+  text-align: center;
+  margin: 0;
 }
