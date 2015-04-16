@@ -11,31 +11,33 @@ layout: default
   <ul class="post-list">
     {% for post in site.posts %}
       <li class="post">
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-          <div class="row">
-            <div class="post-number col-xs-1">
+        <div class="row">
+          <div class="post-number col-sm-1 col-xs-12">
+            <a href="{{ post.url | prepend: site.baseurl }}">
               {{ post.number }}
-            </div>
-            <div class="col-xs-11">
-              <h2 class="post-title">
-                {{ post.title }}
-              </h2>
-              <div class="post-excerpt">
-                {{ post.description }}
-              </div>
-              <ul class="list-inline post-meta">
-                <li class="post-date">
-                  <span class="post-date-title">投稿日時：</span>
-                  <span>{{ post.date | date: "%Y年%-m月%-d日" }}</span>
-                </li>
-                <li class="post-duration">
-                  <span class="post-duration-title">時間：</span>
-                  <span>{{ post.duration }}</span>
-                </li>
-              </ul>
-            </div>
+            </a>
           </div>
-        </a>
+          <div class="col-sm-11 col-xs-12">
+            <h2 class="post-title">
+              <a href="{{ post.url | prepend: site.baseurl }}">
+                {{ post.title }}
+              </a>
+            </h2>
+            <div class="post-excerpt">
+              {{ post.description }}
+            </div>
+            <ul class="list-inline post-meta">
+              <li class="post-date">
+                <span class="post-date-title">投稿日時：</span>
+                <span>{{ post.date | date: "%Y年%-m月%-d日" }}</span>
+              </li>
+              <li class="post-duration">
+                <span class="post-duration-title">時間：</span>
+                <span>{{ post.duration }}</span>
+              </li>
+            </ul>
+          </div>
+        </div>
       </li>
     {% endfor %}
   </ul>

@@ -6,7 +6,7 @@ categories: jekyll update
 duration: 1時間15分
 member: gaaamii karur4n
 description: 前回からの改善点、エイプリルフール、 Podcast の配信する手順、幕が上がる、イミテーション・ゲーム、アフロ田中、大学からお金をもらって開発をする学生エンジニア、Nekobito, BaaS, 今後 Podcast でやりたいことなどについて話しました。
-number: 2
+number: 21
 ---
 
 Podcast を始めた理由、最近きてる美女などについて話しました。
