@@ -3,7 +3,7 @@ title: くもキャスト
 email: your-email@domain.com
 description: 独学でプログラミングを学ぶ若者たちがゆるくつながってお話をしています
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://kumocast.github.io" # the base hostname & protocol for your site
 twitter_username: kumocast
 github_username:  jekyll
 gaaamii_icon: https://avatars1.githubusercontent.com/u/4538656?v=3&s=460
