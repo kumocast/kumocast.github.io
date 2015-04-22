@@ -14,21 +14,16 @@
   }
 }
 
-.post-link {
-  display: block;
-  padding: $md-margin 0;
+.post-number {
+  color: $brand-color;
+  font-size: 28px;
+  font-weight: bold;
+}
 
-  &:hover {
-  }
-
+.post-number a {
   &:visited {
     color: $brand-color;
   }
-}
-
-.post-number {
-  font-size: 28px;
-  font-weight: bold;
 }
 
 @media (min-width: 768px) {
@@ -38,9 +33,15 @@
 }
 
 .post-title {
-  color: #001f3f;
+  color: $brand-color;
   font-size: 18px;
   font-weight: bold;
+}
+
+.post-title a {
+  &:visited {
+    color: $brand-color;
+  }
 }
 
 .post-excerpt, .post-content {
