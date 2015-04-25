@@ -20,12 +20,14 @@ header {
 }
 
 .site-link {
-  color: #685800;
   color: #fff;
   font-weight: bold;
 
+  &:hover {
+    text-decoration: none;
+  }
+
   &:visited {
-    color: #685800;
     color: #fff;
   }
 }
