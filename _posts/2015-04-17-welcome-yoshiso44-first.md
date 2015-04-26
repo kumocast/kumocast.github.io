@@ -5,7 +5,7 @@ date:   2015-04-17 00:00:00
 duration: 46分
 members: ['yoshiso44', 'gaaamii', 'karur4n']
 audio: https://mokumokucloud.github.io/podcasting/audios/2015/04/kumocast_03.mp3
-description: 朝つらい、よしそさんに質問、映画、セルフブランディングについて話しました。
+description: 朝つらい、よしそさんに質問、映画、セルフブランディングなどについて話しました。
 number: 3
 ---
 
