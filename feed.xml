@@ -28,6 +28,7 @@ layout: null
             {{ post.content | xml_escape }}
         </description>
         <itunes:subtitle>{{ post.description | xml_escape }}</itunes:subtitle>
+        <enclosure url="{{ post.audio }}" length="0" type="audio/mpeg"/>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
         <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
