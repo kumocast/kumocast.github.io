@@ -1,0 +1,27 @@
+---
+layout: post
+title: ソフトウェアの名付け
+date: 2015-05-03 00:00:00
+duration: 45分
+members: ['gaaamii', 'karur4n']
+audio: https://mokumokucloud.github.io/podcasting/audios/2015/05/kumocast_06.mp3
+description: Podcast で紹介してもらいました、Squarespace, ドローン、Apple Watch, Electron(Atom Shell), ソフトウェアの名付け、Java, IDE について話しました。
+number: 6
+---
+
+### Show Notes
+
+- [episode 5: いや試行錯誤してるんですよ笑 | Transclude](http://transclude.fm/post/116793343436/episode-5)
+- [PROTOTYPE.FM](http://www.prototype.fm/)
+- [Build a Website — Squarespace](http://www.squarespace.com/)
+- [官邸屋上にドローン 放射性セシウム確認　NHKニュース](http://www3.nhk.or.jp/news/html/20150422/k10010057191000.html)
+- [ＴＯＫＹＯ ＭＸのドローン 英大使館敷地に落下　NHKニュース](http://www3.nhk.or.jp/news/html/20150424/k10010058961000.html)
+- [姫路城周辺で「ドローン」 飛行禁止呼びかけ　NHKニュース](http://www3.nhk.or.jp/news/html/20150423/k10010058631000.html)
+- [やる気スイッチ欲しい - gaaamiiのブログ](http://shgam.hatenadiary.jp/entry/2015/04/15/073908)
+- [GitHub、JavaScriptでデスクトップアプリが作れるライブラリAtom Shellを、Electronに改称：CodeZine](http://codezine.jp/article/detail/8678)
+- [Atom](https://atom.io/)
+- [Nuclide - a unified IDE](http://nuclide.io/)
+- [nuclide - Google 検索](https://www.google.co.jp/search?safe=off&es_sm=91&biw=1471&bih=958&tbm=isch&sa=1&q=nuclide&oq=nuclide&gs_l=img.3..0i19l10.4858.6007.0.6104.7.6.0.1.1.0.87.488.6.6.0.msedr...0...1c.1.64.img..0.7.492.b15Vw_GPI6s)
+- [reactjs - Google 検索](https://www.google.co.jp/search?q=reactjs&safe=off&es_sm=91&source=lnms&tbm=isch&sa=X&ei=IMRFVff7J6bCmAWt3IHAAw&ved=0CAkQ_AUoAw&biw=1261&bih=958)
+- [名前を理解することがだいじ - 大学生からはじめる Web 開発](http://karur4n.hatenablog.com/entry/2015/04/17/165041)
+- [O'Reilly Japan - 初めてのプログラミング 第2版](http://www.oreilly.co.jp/books/9784873114699/)
