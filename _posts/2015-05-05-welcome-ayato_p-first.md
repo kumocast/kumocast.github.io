@@ -2,7 +2,7 @@
 layout: post
 title: _ayato_p さんが来てくれました 前編
 date: 2015-05-05 00:00:00
-duration: 1時間39分
+duration: 37分
 members: ['_ayato_p', 'karur4n', 'gaaamii']
 audio: https://mokumokucloud.github.io/podcasting/audios/2015/05/kumocast_07.mp3
 description: <a href="http://twitter.com/_ayato_p" target="blank">@_ayato_p</a>さんを迎えて、プログラマーになった経緯, 転職, 関数型言語との出会い, 勉強会, Language Exchange などについて話しました。
