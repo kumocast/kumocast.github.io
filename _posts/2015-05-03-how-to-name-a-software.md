@@ -4,7 +4,7 @@ title: ソフトウェアの名付け
 date: 2015-05-03 00:00:00
 duration: 45分
 members: ['gaaamii', 'karur4n']
-audio: https://mokumokucloud.github.io/podcasting/audios/2015/05/kumocast_06.mp3
+audio: http://kumocast.jp/audios/06.mp3
 description: Podcast で紹介してもらいました、Squarespace, ドローン、Apple Watch, Electron(Atom Shell), ソフトウェアの名付け、Java, IDE について話しました。
 number: 6
 ---
