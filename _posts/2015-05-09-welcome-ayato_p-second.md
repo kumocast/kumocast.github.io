@@ -1,6 +1,6 @@
 ---
 layout: post
-title: _ayato_p さんが来てくれました 前編
+title: _ayato_p さんが来てくれました 後編
 date: 2015-05-09 00:00:00
 duration: 1時間14分
 members: ['_ayato_p', 'karur4n', 'gaaamii']
