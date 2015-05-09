@@ -34,6 +34,6 @@ number: 8
 - [Project Euler](https://projecteuler.net/)
 - [Project Euler - PukiWiki](http://odz.sakura.ne.jp/projecteuler/)
 
-Clojure に関しては _ayato_p さんの以下のエントリが分かりやすいです。
+Clojure の概要は あやぴーさんの以下のエントリが分かりやすいです。
 
 - [1 ヶ月間 Clojure を書き続けて感じたこと - (define -ayalog '())](http://ayato.hateblo.jp/entry/20150503/1430636305)')]
