@@ -36,4 +36,4 @@ number: 8
 
 Clojure の概要は あやぴーさんの以下のエントリが分かりやすいです。
 
-- [1 ヶ月間 Clojure を書き続けて感じたこと - (define -ayalog '())](http://ayato.hateblo.jp/entry/20150503/1430636305)')]
+- [1 ヶ月間 Clojure を書き続けて感じたこと - (define -ayalog '())](http://ayato.hateblo.jp/entry/20150503/1430636305)
