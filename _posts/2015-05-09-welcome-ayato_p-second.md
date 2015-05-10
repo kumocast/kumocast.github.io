@@ -9,6 +9,10 @@ description: <a href="http://twitter.com/_ayato_p" target="blank">@_ayato_p</a>�
 number: 8
 ---
 
+1時間20分あたりで @karur4n が、「前号の WEB+DB PRESSでも関数型言語の紹介がされていましたね」ということを話してますが、実際に紹介されているのはリアクティブプログラミングです。お詫びして訂正いたします。
+
+[くもキャスト – 第8回内容の訂正](http://blog.kumocast.jp/post/118597525136/8)
+
 ### Show Notes
 
 - [ライト、ついてますか―問題発見の人間学](http://www.amazon.co.jp/%E3%83%A9%E3%82%A4%E3%83%88%E3%80%81%E3%81%A4%E3%81%84%E3%81%A6%E3%81%BE%E3%81%99%E3%81%8B%E2%80%95%E5%95%8F%E9%A1%8C%E7%99%BA%E8%A6%8B%E3%81%AE%E4%BA%BA%E9%96%93%E5%AD%A6-%E3%83%89%E3%83%8A%E3%83%AB%E3%83%89%E3%83%BBC%E3%83%BB%E3%82%B4%E3%83%BC%E3%82%B9/dp/4320023684)
