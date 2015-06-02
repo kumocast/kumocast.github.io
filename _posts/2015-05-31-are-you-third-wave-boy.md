@@ -2,7 +2,7 @@
 layout: post
 title: サードウェーブ系男子ですか？
 date: 2015-05-31 00:00:00
-duration: 30分
+duration: 29分
 members: ['karur4n', 'gaaamii']
 audio: http://kumocast.jp/audios/11.mp3
 description: サードウェーブ系男子、iOS 開発、Babel, 読んでいる本などについて話しました。
