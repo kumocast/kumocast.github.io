@@ -5,7 +5,7 @@ date: 2015-06-06 00:00:00
 duration: 36分
 members: ['kimihito', 'gaaamii', 'karur4n']
 audio: http://kumocast.jp/audios/12.mp3
-description: <a href="http://twitter.com/kimihito_" target="blank">@kimihito</a>さんを迎えて、ギークハウス沖縄 などについて話しました。
+description: <a href="http://twitter.com/kimihito_" target="blank">@kimihito</a>さんを迎えて、ギークハウス沖縄、きみひとさんのこれまで などについて話しました。
 number: 12
 ---
 
