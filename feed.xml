@@ -20,7 +20,7 @@ layout: null
     <itunes:category text="Technology">
     <itunes:category text="Tech News" />
     </itunes:category>
-    {% for post in site.posts limit:10 %}
+    {% for post in site.posts %}
       <item>
           <title>{{ post.number }}. {{ post.title | xml_escape }}</title>
         <description>
