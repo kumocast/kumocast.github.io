@@ -1,8 +1,8 @@
 ---
 layout: post
 title: kimihito_ さんが来てくれました 後編
-date: 2015-06-09 00:00:00
-duration: 分
+date: 2015-06-12 00:00:00
+duration: 1時間19分
 members: ['kimihito_', 'gaaamii', 'karur4n']
 audio: http://kumocast.jp/audios/13.mp3
 description: <a href="http://twitter.com/kimihito_" target="blank">@kimihito_</a>さんを迎えて、プログラミング学習、エディタ、ハッカーズチャンプルー、おすすめ本、インターンなどについて話しました。
