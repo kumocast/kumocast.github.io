@@ -10,7 +10,6 @@ number: 15
 ---
 
 ### Show Notes
-
 - [銭湯経済のすすめ](http://www.amazon.co.jp/dp/4903908534/)
 - [Amazon.co.jp : On Lisp](http://www.amazon.co.jp/dp/4274066371/)
 - [On Lisp](http://www.asahi-net.or.jp/~kc7k-nd/onlispjhtml/)
