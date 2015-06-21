@@ -1,7 +1,7 @@
 ---
 layout: post
 title: マネーフォワードいいっすよ
-date:   2015-06-21 00:00:00
+date: 2015-06-21 00:00:00
 duration: 0時間29分
 members: ['gaaamii', 'karur4n']
 audio: http://kumocast.jp/audios/15.mp3
