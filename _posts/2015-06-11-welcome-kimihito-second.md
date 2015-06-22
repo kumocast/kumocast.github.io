@@ -17,7 +17,6 @@ number: 13
 - [Visual Studio Code - Code Editing. Redefined.](https://code.visualstudio.com/)
 - [Ruby on Rails 4 アプリケーションプログラミング](http://www.amazon.co.jp/dp/4774164100)（※エピソード内で@kimihito_ さんが言及されているのは「Ruby on Rails 3 アプリケーションプログラミング」ですが、ここには最新のrails4対応の書籍を載せておきます）
 - [brainspec/enumerize](https://github.com/brainspec/enumerize)
-- [【書評】中級者向けSwift解説書『開発のプロが教える Swift標準ガイドブック』 - Qiita](http://qiita.com/shu223/items/ca455eab8d5afc12d876)
 - [Hackers Champloo](http://hackers-champloo.org/2015/)
 - [イベントプログラム - Hackers Champloo](http://hackers-champloo.org/2015/program.html)
 - [よくある質問（FAQ） - Hackers Champloo](http://hackers-champloo.org/2015/faq.html)
