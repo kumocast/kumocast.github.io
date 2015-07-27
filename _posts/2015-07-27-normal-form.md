@@ -11,7 +11,7 @@ number: 19
 
 ### Show Notes
 
-- [◯◯ってなんだ」のネタ帳](https://github.com/MokumokuCloud/podcasting/wiki/%E3%80%8C%08%E2%97%AF%E2%97%AF%E3%81%A3%E3%81%A6%E3%81%AA%E3%82%93%E3%81%A0%E3%80%8D%E3%81%AE%E3%83%8D%E3%82%BF%E5%B8%B3)
+- [「◯◯ってなんだ」のネタ帳](https://github.com/MokumokuCloud/podcasting/wiki/%E3%80%8C%08%E2%97%AF%E2%97%AF%E3%81%A3%E3%81%A6%E3%81%AA%E3%82%93%E3%81%A0%E3%80%8D%E3%81%AE%E3%83%8D%E3%82%BF%E5%B8%B3)
 - [流行のIT技術を追うのをやめたらプログラマとして成長した話](http://shunichi-arai.blogspot.jp/2015/07/it.html)
 - [達人に学ぶDB設計 徹底指南書 初級者で終わりたくないあなたへ](http://www.amazon.co.jp/dp/4798124702)
 - [「達人から学ぶDB設計徹底指南書」を読んでインデックスと正規化について学んだ](http://shgam.hatenadiary.jp/entry/2015/07/01/234325)
