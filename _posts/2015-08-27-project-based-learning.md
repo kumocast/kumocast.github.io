@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project-based Learning with @yaginuuu
+title: Project-based Learning with yaginuuu
 date: 2015-08-27 00:00:00
 duration: 45分
 members: ['yaginuuu', 'gaaamii', 'karur4n']
