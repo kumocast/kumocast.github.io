@@ -5,7 +5,7 @@ date: 2015-09-12 00:00:00
 duration: 56分
 members: ['kimihito_', 'gaaamii', 'karur4n']
 audio: http://kumocast.jp/audios/22.mp3
-description: はてなインターンについて話しました。
+description: [stfuawsc(@kimihito_)さん | Twitter](https://twitter.com/kimihito_)さんを迎えて、はてなインターンについて話しました。
 number: 22
 ---
 
