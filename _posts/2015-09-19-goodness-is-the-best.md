@@ -1,6 +1,6 @@
 ---
 layout: post
-title: はてなインターンを体験してきました
+title: 良さは最高
 date: 2015-09-19 00:00:00
 duration: 1時間27分
 members: ['kimihito_', 'gaaamii', 'karur4n']
