@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 良さは最高
-date: 2015-09-19 00:00:00
+date: 2015-09-29 00:00:00
 duration: 1時間27分
 members: ['kimihito_', 'gaaamii', 'karur4n']
 audio: http://kumocast.jp/audios/23.mp3
-description: <a href="https://twitter.com/kimihito_">@kimihito_</a> さんを迎えて、はてなインターン、情報処理技術者試験、<a href="https://trello.com/">Trello</a>で新婚旅行計画などについて話しました。
+description: <a href="https://twitter.com/kimihito_" target="blank">@kimihito_</a> さんを迎えて、はてなインターン、情報処理技術者試験、<a href="https://trello.com/" target="blank">Trello</a>で新婚旅行計画などについて話しました。
 number: 23
 ---
 
@@ -20,6 +20,7 @@ number: 23
 - [キタミ式イラストIT塾 基本情報技術者 平成27年度](http://www.amazon.co.jp/dp/4774170801/)
 - [人生って、大人になってからがやたら長い (単行本)](http://www.amazon.co.jp/dp/4344024729)
 - [◯◯ってなんだ」のネタ帳](https://github.com/MokumokuCloud/podcasting/wiki/%E3%80%8C%08%E2%97%AF%E2%97%AF%E3%81%A3%E3%81%A6%E3%81%AA%E3%82%93%E3%81%A0%E3%80%8D%E3%81%AE%E3%83%8D%E3%82%BF%E5%B8%B3)
+- [へむろくさんはTwitterを使っています: "「一人は泥を見た。一人は星を見た. 」でググると3番目にくもキャストがでてくる。これってトリビアになりませんか？ #kumocast"](https://twitter.com/hem6/status/640862657013116928)
 - [日本最大級のクラウドソーシング「クラウドワークス」](https://crowdworks.jp)
 - [リモートワークの話 // Speaker Deck](リモートワークの話 // Speaker Deck)
 - [エンジニアにとっての地方と東京 ─ あるいはエンジニアのキャリア形成に環境が与える影響について // Speaker Deck](https://speakerdeck.com/naoya/enzinianitotutefalsedi-fang-todong-jing-nil-aruihaenziniafalsekiyariaxing-cheng-nihuan-jing-gayu-eruying-xiang-nituite)
