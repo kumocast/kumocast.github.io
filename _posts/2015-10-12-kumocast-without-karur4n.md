@@ -11,7 +11,7 @@ number: 24
 ---
 
 ### Show Notes
-- [gasue.fm](http://garsue.fm/)
+- [garsue.fm](http://garsue.fm/)
 - [EPISODE 8: 予定調和の中でそこを超えたところのガチが一番ガチだと、僕はたまに思うときがあってですね | Transclude](http://transclude.fm/post/122906165141/episode-8)
 - [あやぴーさんと会ってきました](http://shgam.hatenadiary.jp/entry/2015/06/20/231904)
 - [ForkwellやWantedlyを使って興味ある会社に話を聞きに行くとき用メモ](http://shgam.hatenadiary.jp/entry/2015/08/10/122815)
