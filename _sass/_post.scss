@@ -18,6 +18,14 @@ audio {
   margin-top: $md-margin;
 }
 
+.post-image {
+  margin: 20px 0;
+  img {
+    padding: 5px;
+    border: 1px solid #ccc;
+  }
+}
+
 .post-members {
   margin-bottom: $md-margin;
 
