@@ -19,7 +19,7 @@ layout: null
     <itunes:category text="Technology">
         <itunes:category text="Tech News" />
     </itunes:category>
-    <itunes:author>gaaamii &amp; karur4n.</itunes:author>
+    <itunes:author>gaaamii &amp; karur4n</itunes:author>
     <language>ja</language>
     {% for post in site.posts %}
       <item>
