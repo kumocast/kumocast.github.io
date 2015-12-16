@@ -3,6 +3,7 @@ layout: post
 title: もうだめだ with alea12
 date: 2015-11-20 00:00:00
 duration: 46分
+image: https://i.gyazo.com/7591c569fcba9ccd4c9d656ee1263c29.png
 members: ['alea12', 'gaaamii']
 audio: http://kumocast.jp/audios/25.mp3
 description: <a href="http://twitter.com/alea12" target="blank">@alea12</a>さんを迎えて、もうだめだ、高度情報処理資格, <a href="https://twitako.net" target="blank">twitako.net</a>, Githubのプライベートリポジトリ活用などについて話しました。
