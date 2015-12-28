@@ -2,7 +2,7 @@
 layout: post
 title: mouten is a daemon with moutend
 date: 2015-12-28 00:00:00
-duration: 54分
+duration: 46分
 members: ["moutend", "gaaamii"]
 audio: http://kumocast.jp/audios/27.mp3
 description:  Raspberry Pi, Heskell, Clojure, 職業観 などについて話しました。
