@@ -26,6 +26,4 @@ members:
     icon: https://avatars2.githubusercontent.com/u/5410013?v=3&s=80
 
 # Build settings
-markdown: redcarpet
-redcarpet:
-  extensions: ["autolink", "hard_wrap"]
+markdown: kramdown
