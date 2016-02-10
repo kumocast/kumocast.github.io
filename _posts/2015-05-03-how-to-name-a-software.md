@@ -11,7 +11,7 @@ number: 6
 
 ### Show Notes
 
-- [episode 5: いや試行錯誤してるんですよ笑 | Transclude](http://transclude.fm/post/116793343436/episode-5)
+- [episode 5: いや試行錯誤してるんですよ笑 \| Transclude](http://transclude.fm/post/116793343436/episode-5)
 - [PROTOTYPE.FM](http://www.prototype.fm/)
 - [Build a Website — Squarespace](http://www.squarespace.com/)
 - [官邸屋上にドローン 放射性セシウム確認　NHKニュース](http://www3.nhk.or.jp/news/html/20150422/k10010057191000.html)
