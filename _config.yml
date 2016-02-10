@@ -27,3 +27,5 @@ members:
 
 # Build settings
 markdown: kramdown
+kramdown:
+  input: GFM
