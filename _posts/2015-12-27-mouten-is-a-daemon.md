@@ -14,8 +14,8 @@ number: 27
 ### Show Notes
 
 - [moutend/HeadFirstC](https://github.com/moutend/HeadFirstC)
-- [Raspberry Pi | 半導体・電子部品の通販 RSオンライン](http://jp.rs-online.com/web/generalDisplay.html?id=raspberrypi)
-- [これは驚き! ―新しいRaspberry Pi Zeroはなんと価格5ドルだ | TechCrunch Japan](http://jp.techcrunch.com/2015/11/27/20151126raspberry-pi-zero/)
+- [Raspberry Pi \| 半導体・電子部品の通販 RSオンライン](http://jp.rs-online.com/web/generalDisplay.html?id=raspberrypi)
+- [これは驚き! ―新しいRaspberry Pi Zeroはなんと価格5ドルだ \| TechCrunch Japan](http://jp.techcrunch.com/2015/11/27/20151126raspberry-pi-zero/)
 - [[Lチカ] Raspberry PiでC言語からSoCのレジスタを操作してGPIOを制御する - Qiita](http://qiita.com/moutend/items/534d597cf5c867273319)
 - [赤外線リモコン - Slack経由で家の外からエアコンをon, offできる装置を、Raspberry Piで作ってみた。（しかも御坂美琴ちゃんが応答してくれる） - Qiita](http://qiita.com/KAKY/items/55e6c54fa2073cdc0bbe)
 - [Learn You a Haskell for Great Good! 日本語版](https://moutend.github.io/jlyhgg//)
