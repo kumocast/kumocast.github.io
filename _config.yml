@@ -9,7 +9,7 @@ github_username:  jekyll
 
 members:
   gaaamii:
-    icon: https://avatars1.githubusercontent.com/u/4538656?v=3&s=80
+    icon: https://pbs.twimg.com/profile_images/684703020613894144/vrw2kb8V.jpg
   karur4n:
     icon: https://avatars2.githubusercontent.com/u/6816398?v=3&s=80
   yoshiso44:
@@ -20,8 +20,13 @@ members:
     icon: https://avatars2.githubusercontent.com/u/758704?v=3&s=80
   yaginuuu:
     icon: https://avatars3.githubusercontent.com/u/3440182?v=3&s=80
+  alea12:
+    icon: https://avatars0.githubusercontent.com/u/1287191?v=3&s=80
+  moutend:
+    icon: https://avatars2.githubusercontent.com/u/5410013?v=3&s=80
 
 # Build settings
-markdown: redcarpet
-redcarpet:
-  extensions: ["autolink", "hard_wrap"]
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false

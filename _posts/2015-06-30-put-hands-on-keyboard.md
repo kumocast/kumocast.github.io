@@ -14,7 +14,7 @@ number: 16
 - [Kinesis をポチった - (define -ayalog '())](http://ayato.hateblo.jp/entry/20150617/1434547479)
 - [Advantage for PC & Mac - Kinesis Corporation » Kinesis Corporation » Where comfort and productivity go hand in hand.](http://www.kinesis-ergo.com/shop/advantage-for-pc-mac/)
 - [あなたのホームポジションは間違っていた](http://www.sol.dti.ne.jp/~cdrcarco/)
-- [Happy Hacking Keyboard | PFU](http://www.pfu.fujitsu.com/hhkeyboard/)
+- [Happy Hacking Keyboard \| PFU](http://www.pfu.fujitsu.com/hhkeyboard/)
 - [color-picker](https://atom.io/packages/color-picker)
 - [Cygwin](https://www.cygwin.com/)
 - [Chocolatey Gallery](https://chocolatey.org/)

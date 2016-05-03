@@ -33,7 +33,7 @@ number: 8
 - [ring-clojure/ring](https://github.com/ring-clojure/ring)
 - [Leiningen](http://leiningen.org/)
 - [Cursive: The IDE for beautiful Clojure code](https://cursiveclojure.com/)
-- [2015年の最優先事項は関数型プログラミング！ | POSTD](http://postd.cc/functional-programming-should-be-your-1-priority-for-2015/)
+- [2015年の最優先事項は関数型プログラミング！ \| POSTD](http://postd.cc/functional-programming-should-be-your-1-priority-for-2015/)
 - [プログラミングの基礎(Computer Science Library)](http://www.amazon.co.jp/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%AE%E5%9F%BA%E7%A4%8E-Computer-Science-Library-%E6%B5%85%E4%BA%95/dp/4781911609)
 - [Project Euler](https://projecteuler.net/)
 - [Project Euler - PukiWiki](http://odz.sakura.ne.jp/projecteuler/)
