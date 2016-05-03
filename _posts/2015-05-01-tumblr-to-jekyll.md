@@ -16,7 +16,6 @@ number: 5
 - [railsコマンドを追う - gaaamiiのブログ](http://shgam.hatenadiary.jp/entry/2014/08/15/001501)
 - [YouTubeが広告を非表示にできる月額制プランを正式発表 - GIGAZINE](http://gigazine.net/news/20150409-youtube-paid-subscription/)
 - [『Z』の誓い（short ver.） - ももいろクローバーZ（"Z" NO CHIKAI -short ver.-／MOMOIRO CLOVER Z） - YouTube](https://www.youtube.com/watch?v=Lve-2wkdbPY)
-- [Coursera - Free Online Courses From Top Universities | Coursera](https://www.coursera.org/)
+- [Coursera - Free Online Courses From Top Universities \| Coursera](https://www.coursera.org/)
 - [Coursera｜修了証（Verified Certificates）とは : MOOCsブログ](http://moocs.blog.jp/archives/coursera-verified-certificate.html)
-- [Internet History, Technology, and Security - University of Michigan | Coursera](https://www.coursera.org/learn/internet-history)
-
+- [Internet History, Technology, and Security - University of Michigan \| Coursera](https://www.coursera.org/learn/internet-history)

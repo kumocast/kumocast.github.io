@@ -23,6 +23,6 @@ number: 26
 - [書き途中 - gaaamiiのブログ](http://shgam.hatenadiary.jp/category/%E6%9B%B8%E3%81%8D%E9%80%94%E4%B8%AD)
 - [Livly Island](http://www.livly.com/)
 - [Yahoo!メッセンジャー ](http://messenger.yahoo.co.jp/)
-- [ハッカーの教科書 完全版 | IPUSIRON | 本 | Amazon.co.jp](http://www.amazon.co.jp/dp/4887188161)
+- [ハッカーの教科書 完全版 \| IPUSIRON \| 本 \| Amazon.co.jp](http://www.amazon.co.jp/dp/4887188161)
 - [Amazon.co.jp： Effective Ruby: Peter J. Jones, arton, 長尾 高弘: 本](http://www.amazon.co.jp/dp/4798139823)
 - [RとRubyによるデータ解析入門](http://www.amazon.co.jp/dp/4873116155)

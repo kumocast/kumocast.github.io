@@ -18,5 +18,5 @@ number: 11
 - [RealmTodo のコードを読んだ - 大学生からはじめる Web 開発](http://karur4n.hatenablog.com/entry/2015/05/21/160814)
 - [バベルの塔 - Wikipedia](http://ja.wikipedia.org/wiki/%E3%83%90%E3%83%99%E3%83%AB%E3%81%AE%E5%A1%94)
 - [まだ読み終わってません · MokumokuCloud/podcasting@0c66a99](https://github.com/MokumokuCloud/podcasting/commit/0c66a999c9e4576075973df8d6a2b15778d5a25d)
-- [gaaamiiへおすすめの本 | Yomomo](http://yomomo.net/u/gaaamii)
+- [gaaamiiへおすすめの本 \| Yomomo](http://yomomo.net/u/gaaamii)
 - [荒木飛呂彦の漫画術](http://www.amazon.co.jp/%E8%8D%92%E6%9C%A8%E9%A3%9B%E5%91%82%E5%BD%A6%E3%81%AE%E6%BC%AB%E7%94%BB%E8%A1%93-%E9%9B%86%E8%8B%B1%E7%A4%BE%E6%96%B0%E6%9B%B8-%E8%8D%92%E6%9C%A8-%E9%A3%9B%E5%91%82%E5%BD%A6/dp/4087207803)
