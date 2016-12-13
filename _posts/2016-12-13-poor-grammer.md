@@ -5,7 +5,7 @@ date: 2016-12-13 00:00:00
 duration: 1時間21分
 members: ["gaaamii", "karur4n"]
 audio: http://kumocast.jp/audios/32.mp3
-description: Podcast, Rails と Webpack, CSS, Next.js, 節約, Amazon ビデオについて話しました。
+description: Podcast, Rails と Webpack, CSS, Next.js, 節約, 最近観たものについて話しました。
 number: 32
 ---
 
