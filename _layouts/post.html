@@ -39,9 +39,11 @@ layout: default
       <p class="post-excerpt">
         {{ page.description }}
       </p>
+      {% if page.image %}
       <div class="post-image">
         <img src="{{ page.image }}" />
       </div>
+      {% endif %}
       <div class="post-members">
         <h3 class="post-member">出演者</h3>
         <ul class="list-inline">
