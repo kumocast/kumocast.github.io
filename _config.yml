@@ -24,6 +24,8 @@ members:
     icon: https://avatars0.githubusercontent.com/u/1287191?v=3&s=80
   moutend:
     icon: https://avatars2.githubusercontent.com/u/5410013?v=3&s=80
+  vsanna2:
+    icon: https://avatars2.githubusercontent.com/u/7834445?v=3&s=80
 
 # Build settings
 markdown: kramdown
