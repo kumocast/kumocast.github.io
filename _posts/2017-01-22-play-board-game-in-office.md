@@ -18,6 +18,7 @@ number: 34
 - [くもキャスト \- 正規化ってなんだ](http://kumocast.jp/2015/07/27/normal-form.html)
 - [くもキャスト \- 現役ポッドキャスト](http://kumocast.jp/2016/10/15/active-podcast.html)
 - [Popular "幕末志士" Videos 705 \- Niconico Video](http://www.nicovideo.jp/tag/%E5%B9%95%E6%9C%AB%E5%BF%97%E5%A3%AB)
+- [ライムスター宇多丸のウィークエンド・シャッフル\|TBSラジオAM954\+FM90\.5～聞けば、見えてくる～](http://www.tbsradio.jp/utamaru/)
 - [幕末ラジオ　第十三回（黒歴史枠） \- Niconico Video:GINZA](http://www.nicovideo.jp/watch/1450089696)
 - [Amazon \| 宝石の煌き \(Splendor\) \| ボードゲーム 通販](https://www.amazon.co.jp/dp/B00IZEUFIA)
 - [Amazon \| カタンの開拓者たち スタンダード版 \| カードゲーム・トランプ 通販](https://www.amazon.co.jp/dp/B004SAX1EK)
