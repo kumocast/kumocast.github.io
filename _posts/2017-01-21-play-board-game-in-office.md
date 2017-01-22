@@ -22,6 +22,7 @@ number: 34
 - [Amazon \| 宝石の煌き \(Splendor\) \| ボードゲーム 通販](https://www.amazon.co.jp/dp/B00IZEUFIA)
 - [Amazon \| カタンの開拓者たち スタンダード版 \| カードゲーム・トランプ 通販](https://www.amazon.co.jp/dp/B004SAX1EK)
 - [Railsアプリを66％スピードアップ ― Railsキャッシュの完全ガイド \| プログラミング \| POSTD](http://postd.cc/the-complete-guide-to-rails-caching/)
+- [30歳までに「何者か」になる \| Liiga\(リーガ\)](https://liiga.me/)
 - [参考書・教材レビュー \| Studyplus（スタディプラス）](https://studyplus.jp/learning_materials/reviews)
 - [vsanna\.sakura\.ne\.jp の人気エントリー \- はてなブックマーク](http://b.hatena.ne.jp/entrylist?sort=count&url=http%3A%2F%2Fvsanna.sakura.ne.jp%2F)
 - [スクレイピングのやり方\#1】周りに勧められてスクレイピングなるものをしてみたいけど何すればいいのかわからなかったあの日の自分へ \| Project name](http://vsanna.sakura.ne.jp/wp/2015/01/scraping_start_up/)
