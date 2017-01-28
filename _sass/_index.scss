@@ -48,15 +48,29 @@
 .post-excerpt, .post-content {
   font-size: 15px;
   color: #555;
+  margin-bottom: $md-margin;
 }
 
 .post-meta {
   color: #555;
   font-size: 14px;
-  margin-top: $md-margin;
-  text-align: right;
+  margin-bottom: $md-margin;
 }
 
 .post-date-title, .post-duration-title {
   font-weight: bold;
+}
+
+.home-members {
+  display: flex;
+}
+
+.home-member-icon {
+  border-radius: 999rem;
+  height: 40px;
+  width: 40px;
+
+  &:not(:last-child) {
+    margin-right: $sm-margin;
+  }
 }

@@ -23,9 +23,6 @@ layout: default
                 {{ post.title }}
               </a>
             </h2>
-            <div class="post-excerpt">
-              {{ post.description }}
-            </div>
             <ul class="list-inline post-meta">
               <li class="post-date">
                 <span class="post-date-title">投稿日：</span>
@@ -36,6 +33,15 @@ layout: default
                 <span>{{ post.duration }}</span>
               </li>
             </ul>
+            <div class="post-excerpt">
+              {{ post.description }}
+            </div>
+            <div class="home-members">
+              {% for member_id in post.members %}
+                {% assign member = site.members[member_id] %}
+                <img src="{{ member.icon }}" alt="{{ member_id }}" title="{{ member_id }}" class="home-member-icon" width="40" height="40">
+              {% endfor %}
+            </div>
           </div>
         </div>
       </li>
