@@ -1,11 +1,11 @@
 # Site settings
 title: くもキャスト
-email: your-email@domain.com
-description: プログラミングを学ぶ若者たちがゆるくつながってお話をしています
+# email: your-email@domain.com
+description: プログラミングを学ぶ若者たちがゆるくつながってお話をするポッドキャストです
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://kumocast.jp" # the base hostname & protocol for your site
 twitter_username: kumocast
-github_username:  jekyll
+github_username: kumocast
 
 members:
   gaaamii:
