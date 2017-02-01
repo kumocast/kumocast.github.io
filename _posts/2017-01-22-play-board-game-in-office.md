@@ -11,8 +11,6 @@ number: 34
 
 ### Show Notes
 
-- [今回のアジェンダ](https://paper.dropbox.com/doc/-33-Lvjb4Mz6M3XKwehVmmemB)
-
 - [くもキャスト \- yoshiso44 さんが来てくれました 前編](http://kumocast.jp/2015/04/17/welcome-yoshiso44-first.html)
 - [くもキャスト \- 正規化ってなんだ](http://kumocast.jp/2015/07/27/normal-form.html)
 - [くもキャスト \- 現役ポッドキャスト](http://kumocast.jp/2016/10/15/active-podcast.html)
