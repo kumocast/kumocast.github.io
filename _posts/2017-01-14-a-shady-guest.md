@@ -11,8 +11,6 @@ number: 33
 
 ### Show Notes
 
-- [今回のアジェンダ](https://paper.dropbox.com/doc/-33-Lvjb4Mz6M3XKwehVmmemB)
-
 - [胡散臭い（うさんくさい） \- 語源由来辞典](http://gogen-allguide.com/u/usankusai.html)
 - [株式会社ハウテレビジョン](http://howtelevision.co.jp/)
 - [vsanna \| Issüs\(イシューズ\)](http://issus.me/vsanna)
