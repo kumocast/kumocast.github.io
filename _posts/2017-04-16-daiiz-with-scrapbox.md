@@ -33,4 +33,5 @@ number: 36
 - [kumocast \- Scrapbox](https://scrapbox.io/kumocast/)
 - [学習総合サイト Studyplus\(スタディプラス\)](https://studyplus.jp/)
 - [みんチャレ \- 三日坊主防止アプリ](https://minchalle.com/)
-- [システムテスト自動化カンファレンス2017 行ってきた \#stac2017 \- gaaamiiのブログ](http://shgam.hatenadiary.jp/entry/2017/03/19/225650)- [ディープラーニングで簡単に自動テストスクリプトが作れる「Magic Pod」 \| 品質向上ブログ](http://blog.trident-qa.com/2016/10/introduce_magic_pot/)
+- [システムテスト自動化カンファレンス2017 行ってきた \#stac2017 \- gaaamiiのブログ](http://shgam.hatenadiary.jp/entry/2017/03/19/225650)
+- [ディープラーニングで簡単に自動テストスクリプトが作れる「Magic Pod」 \| 品質向上ブログ](http://blog.trident-qa.com/2016/10/introduce_magic_pot/)
