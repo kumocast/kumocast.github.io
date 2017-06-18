@@ -5,7 +5,7 @@ date: 2017-06-18 00:00:00
 duration: 53分
 members: ['keicoro', 'gaaamii', 'karur4n']
 audio: http://kumocast.jp/audios/37.mp3
-description: <a href="https://scrapbox.io/kimaben/keicoro" target="blank">いげがみ</a>さんを迎えて、スタートアップ、ペアプログラミング、学習について話しました。
+description: <a href="https://scrapbox.io/kimaben/keicoro" target="blank">いけがみ</a>さんを迎えて、スタートアップ、ペアプログラミング、学習について話しました。
 number: 37
 ---
 
