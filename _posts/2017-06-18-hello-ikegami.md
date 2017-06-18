@@ -1,6 +1,6 @@
 ---
 layout: post
-title: daiizさんとScrapbox
+title: いけがみさんが来てくれました
 date: 2017-06-18 00:00:00
 duration: 53分
 members: ['keicoro', 'gaaamii', 'karur4n']
