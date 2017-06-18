@@ -11,7 +11,6 @@ number: 37
 
 ### Show Notes
 - [37回 アジェンダ \- kumocast \- Scrapbox](https://scrapbox.io/kumocast/37%E5%9B%9E%20%E3%82%A2%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%80)
--
 - [素人がペアプログラミングでWebサービスを作れるようになるか \- gaaamiiのブログ](http://shgam.hatenadiary.jp/entry/2013/08/23/192833)
 - [Java、C\+\+、Python…プログラミング言語擬人化計画！｜【Tech総研】](http://next.rikunabi.com/tech/docs/ct_s03600.jsp?p=002412)
 - [はじめに \- きまべん \- Scrapbox](https://scrapbox.io/kimaben/%E3%81%AF%E3%81%98%E3%82%81%E3%81%AB)
