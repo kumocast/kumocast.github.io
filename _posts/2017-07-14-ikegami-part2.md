@@ -2,7 +2,7 @@
 layout: post
 title: いけがみさんが来てくれました後編
 date: 2017-07-14 00:00:00
-duration: 53分
+duration: 51分
 members: ['keicoro', 'gaaamii', 'karur4n']
 audio: http://kumocast.jp/audios/38.mp3
 description: <a href="https://scrapbox.io/kimaben/keicoro" target="blank">いけがみ</a>さんを迎えて、スタートアップ、ペアプログラミング、学習について話しました。
