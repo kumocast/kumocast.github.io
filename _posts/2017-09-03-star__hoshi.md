@@ -1,6 +1,6 @@
 ---
 layout: post
-title: star__hoshi さんが来てくれました後編
+title: star__hoshi さんが来てくれました
 date: 2017-09-03 00:00:00
 duration: 1時間38分
 members: ['star__hoshi', 'gaaamii', 'karur4n']
