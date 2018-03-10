@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TOEIC初受験で960点を叩き出した件
-date: 2018-03-18 00:00:00
+date: 2018-03-10 00:00:00
 duration: 51分
 members: ['tommy6073', 'gaaamii']
 audio: http://kumocast.jp/audios/42.mp3
