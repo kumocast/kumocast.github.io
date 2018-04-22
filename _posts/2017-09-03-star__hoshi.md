@@ -4,7 +4,7 @@ title: star__hoshi さんが来てくれました
 date: 2017-09-03 00:00:00
 duration: 1時間38分
 members: ['star__hoshi', 'gaaamii', 'karur4n']
-audio: http://kumocast.jp/audios/39.mp3
+audio: /audios/39.mp3
 description: <a href="https://twitter.com/star__hoshi" target="blank">star__hoshi</a>さんを迎えて、個人開発、Slack, MAMORIO, SEO, 筋トレ, Swift2 から 3 へ移行, Angular, React Native について話しました
 number: 39
 ---

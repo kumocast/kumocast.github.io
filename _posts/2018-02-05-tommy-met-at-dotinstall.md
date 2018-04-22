@@ -4,7 +4,7 @@ title: ドットインストール同期のトミーさん
 date: 2018-02-05 00:00:00
 duration: 43分
 members: ['tommy6073', 'gaaamii']
-audio: http://kumocast.jp/audios/41.mp3
+audio: /audios/41.mp3
 description: 知り合った経緯, ドットインストール, 勉強の習慣化, きまべんなどについて話しました
 number: 41
 ---

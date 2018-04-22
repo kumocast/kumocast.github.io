@@ -4,7 +4,7 @@ title: TOEIC初受験で960点を叩き出した件
 date: 2018-03-10 00:00:00
 duration: 51分
 members: ['tommy6073', 'gaaamii']
-audio: http://kumocast.jp/audios/42.mp3
+audio: /audios/42.mp3
 description: TOEIC勉強法, Qiita, 福岡, Studyplusなどについて話しました
 number: 42
 ---

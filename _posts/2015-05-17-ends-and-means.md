@@ -4,7 +4,7 @@ title: 目的と手段
 date: 2015-05-17 00:00:00
 duration: 34分
 members: ['karur4n', 'gaaamii']
-audio: http://kumocast.jp/audios/09.mp3
+audio: /audios/09.mp3
 description: くもキャストブログについて、プログラミングの基礎を読み始めたこと、オートメーション・バカ、「桐島、Rubyやめるってよ」が感動的な件、暇と退屈の倫理学などについて話しました。
 number: 9
 ---

@@ -4,7 +4,7 @@ title: 現役ポッドキャスト
 date: 2016-10-15 00:00:00
 duration: 1時間2分
 members: ["gaaamii", "karur4n"]
-audio: http://kumocast.jp/audios/30.mp3
+audio: /audios/30.mp3
 description: 転職、作っていたもの、WikiHub, Gemなどについて話しました。
 number: 30
 ---

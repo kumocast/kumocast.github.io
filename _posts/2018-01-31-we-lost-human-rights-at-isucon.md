@@ -4,7 +4,7 @@ title: ISUCON反省
 date: 2018-01-31 00:00:00
 duration: 41分
 members: ['karur4n', 'gaaamii']
-audio: http://kumocast.jp/audios/40.mp3
+audio: /audios/40.mp3
 description: ISUCONの反省をしたりしました。2017年11月に話した内容です。更新が遅れてすみません!本当にごめんなさい!!
 number: 40
 ---

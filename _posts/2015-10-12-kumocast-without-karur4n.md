@@ -5,7 +5,7 @@ date: 2015-10-12T00:26:13+09:00
 duration: 43分
 image: https://i.gyazo.com/91c10a026d3be21256507a2f6fb2b27d.png
 members: ["_ayato_p", "gaaamii"]
-audio: http://kumocast.jp/audios/24.mp3
+audio: /audios/24.mp3
 description: (※挨拶では23回と言ってるけど24回です。) <a href="http://twitter.com/_ayato_p" target="blank">@_ayato_p</a> さんを迎えて, 近況, 競技プログラミング, 転職の時考える/考えたこと, 進捗ダメなどについて話しました。
 number: 24
 ---

@@ -4,7 +4,7 @@ title: Rubyの文字列とシンボルの使い分けについて何度も検索
 date: 2016-05-04 00:00:00
 duration: 37分
 members: ["karur4n", "gaaamii"]
-audio: http://kumocast.jp/audios/29.mp3
+audio: /audios/29.mp3
 description: Podcastどうしようか, 人狼アプリをRailsとReduxで作ってる, wdim, Rubyの文字列とシンボルの使い分けについて何度も検索してる件, HTMLってなんだ, などについて話しました。
 number: 29
 ---

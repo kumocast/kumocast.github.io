@@ -4,7 +4,7 @@ title: 胸板の厚さは信頼の厚さ
 date: 2017-02-27 00:00:00
 duration: 1時間29分
 members: ['_ayato_p', 'karur4n', 'gaaamii']
-audio: http://kumocast.jp/audios/35.mp3
+audio: /audios/35.mp3
 description: <a href="http://twitter.com/_ayato_p" target="blank">@_ayato_p</a>さんを迎えて、若者、格安SIM, 筋肉などについて話しました。
 number: 35
 ---

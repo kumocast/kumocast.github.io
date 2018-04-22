@@ -4,7 +4,7 @@ title: Jekyll に移行しました
 date:   2015-05-01 00:00:00
 duration: 45分
 members: ['gaaamii', 'karur4n']
-audio: http://kumocast.jp/audios/05.mp3
+audio: /audios/05.mp3
 description: Jekyll に移行、 Rack のコードリーディング、YouTube と収益、MOOCs, Coursera について話しました。
 number: 5
 ---

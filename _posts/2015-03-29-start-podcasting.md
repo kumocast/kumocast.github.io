@@ -4,7 +4,7 @@ title:  ポッドキャストはじめました
 date:   2015-03-29 00:00:00
 duration: 1時間18分
 members: ['gaaamii', 'karur4n']
-audio: http://kumocast.jp/audios/01.mp3
+audio: /audios/01.mp3
 description: Podcast を始めた理由、最近きてる美女などについて話しました。
 number: 1
 ---

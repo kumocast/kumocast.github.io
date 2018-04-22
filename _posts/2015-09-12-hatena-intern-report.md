@@ -4,7 +4,7 @@ title: はてなインターンを体験してきました
 date: 2015-09-12 00:00:00
 duration: 56分
 members: ['kimihito_', 'gaaamii', 'karur4n']
-audio: http://kumocast.jp/audios/22.mp3
+audio: /audios/22.mp3
 description: <a href="https://twitter.com/kimihito_">@kimihito_</a> さんを迎えて、はてなインターンについて話しました。
 number: 22
 ---

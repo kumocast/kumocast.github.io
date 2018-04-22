@@ -4,7 +4,7 @@ title:  yoshiso44 さんが来てくれました 後編
 date:   2015-04-26 00:00:00
 duration: 45分
 members: ['yoshiso44', 'gaaamii', 'karur4n']
-audio: http://kumocast.jp/audios/04.mp3
+audio: /audios/04.mp3
 description: クロスプラットフォーム開発、Aries, JSON Schema, Swift, ECMAScript 6, Go 言語、ゲスト募集、Jekyll などについて話しました。
 number: 4
 ---

@@ -4,7 +4,7 @@ title: 良さは最高
 date: 2015-09-29 00:00:00
 duration: 1時間27分
 members: ['kimihito_', 'gaaamii', 'karur4n']
-audio: http://kumocast.jp/audios/23.mp3
+audio: /audios/23.mp3
 description: <a href="https://twitter.com/kimihito_" target="blank">@kimihito_</a> さんを迎えて、はてなインターン、情報処理技術者試験、<a href="https://trello.com/" target="blank">Trello</a>で新婚旅行計画などについて話しました。
 number: 23
 ---

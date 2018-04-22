@@ -4,7 +4,7 @@ title:  エイプリルフールけっこう嫌い
 date:   2015-04-7 00:00:00
 duration: 1時間39分
 members: ['gaaamii', 'karur4n']
-audio: http://kumocast.jp/audios/02.mp3
+audio: /audios/02.mp3
 description: 前回からの改善点、エイプリルフール、 Podcast の配信する手順、幕が上がる、イミテーション・ゲーム、アフロ田中、大学からお金をもらって開発をする学生エンジニア、Nekobito, BaaS, 今後 Podcast でやりたいことなどについて話しました。
 number: 2
 ---

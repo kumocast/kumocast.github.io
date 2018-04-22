@@ -4,7 +4,7 @@ title: マネーフォワードいいっすよ
 date: 2015-06-21 00:00:00
 duration: 0時間29分
 members: ['gaaamii', 'karur4n']
-audio: http://kumocast.jp/audios/15.mp3
+audio: /audios/15.mp3
 description: 銭湯経済のすすめ、MINDパフォーマンスHACKS、マネーフォワードの便利さ、掃除しないと生活が淀む問題について話しました
 number: 15
 ---

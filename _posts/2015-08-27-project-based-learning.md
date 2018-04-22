@@ -4,7 +4,7 @@ title: Project-based Learning with yaginuuu
 date: 2015-08-27 00:00:00
 duration: 45分
 members: ['yaginuuu', 'gaaamii', 'karur4n']
-audio: http://kumocast.jp/audios/21.mp3
+audio: /audios/21.mp3
 description: <a href="http://twitter.com/yaginuuu" target="blank">@yaginuuu</a>さんを迎えて、たきざワッカソン, Project-based Learning, アジャイル, Zenhub などについて話しました。
 number: 21
 ---

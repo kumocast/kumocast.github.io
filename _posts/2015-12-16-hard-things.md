@@ -5,7 +5,7 @@ date: 2015-12-17 00:00:00
 duration: 1時間5分
 image:
 members: ['alea12', 'gaaamii']
-audio: http://kumocast.jp/audios/26.mp3
+audio: /audios/26.mp3
 description: <a href="https://twitter.com/alea12" target="blank">@alea12</a> さんを迎えて、HARD THINGS, シリコンバレー, ビール, Podcast, インターネット, おすすめ本 などについて話しました。
 number: 26
 ---

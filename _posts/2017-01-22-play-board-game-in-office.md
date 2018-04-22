@@ -4,7 +4,7 @@ title: オフィスでボードゲーム
 date: 2017-01-22 00:00:00
 duration: 1時間17分
 members: ["vsanna2", "gaaamii", "karur4n"]
-audio: http://kumocast.jp/audios/34.mp3
+audio: /audios/34.mp3
 description: <a href="https://twitter.com/vsanna2">@vsanna2</a> さんを迎えて、くもキャストベスト3, Rebuild, 幕末志士, 業務後のボードゲーム, Railsでビューのキャッシュ, スクレイピング記事で炎上, 結婚資金, プロポーズ などについて話しました。
 number: 34
 ---

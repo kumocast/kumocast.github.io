@@ -5,7 +5,7 @@ date: 2016-11-13 00:00:00
 duration: 1時間24分
 image: https://i.gyazo.com/ceab897d39925732bffd1df0f87d0ebf.png
 members: ["gaaamii", "karur4n"]
-audio: http://kumocast.jp/audios/31.mp3
+audio: /audios/31.mp3
 description: やっていきfm, Angularハンズオン, SPA, Bulma, Yarn などについて話しました。
 number: 31
 ---

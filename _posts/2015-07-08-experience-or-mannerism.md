@@ -4,7 +4,7 @@ title: 良く言えば慣れてきた、悪く言えばマンネリ
 date: 2015-07-08 00:00:00
 duration: 31分
 members: ['gaaamii', 'karur4n']
-audio: http://kumocast.jp/audios/17.mp3
+audio: /audios/17.mp3
 description: ブログを書く環境、100冊プロジェクト、Nuclide, Vim, Web の収益化、Livecoding.tv などについて話しました。
 number: 17
 ---

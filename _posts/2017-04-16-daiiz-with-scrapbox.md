@@ -4,7 +4,7 @@ title: daiizさんとScrapbox
 date: 2017-04-16 00:00:00
 duration: 1時間29分
 members: ['daizplus', 'karur4n', 'gaaamii']
-audio: http://kumocast.jp/audios/36.mp3
+audio: /audios/36.mp3
 description: <a href="http://twitter.com/daizplus" target="blank">@daizplus</a>さんを迎えて、はてなブログ引用機能、大学院、機械学習入門、食神カメラ、MOOCs続かない問題、Scrapbox、趣味開発、ソフトウェアテストなどについて話しました。
 number: 36
 ---

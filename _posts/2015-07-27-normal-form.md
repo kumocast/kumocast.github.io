@@ -4,7 +4,7 @@ title: 正規化ってなんだ
 date: 2015-07-27 00:00:00
 duration: 42分
 members: ['gaaamii', 'karur4n']
-audio: http://kumocast.jp/audios/19.mp3
+audio: /audios/19.mp3
 description: 正規化ってなんだ, インデックスってなんだ, はてなインターン合格などについて話しました。
 number: 19
 ---

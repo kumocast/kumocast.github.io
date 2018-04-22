@@ -4,7 +4,7 @@ title: うさんくさいゲスト登場
 date: 2017-01-14 00:00:00
 duration: 41分
 members: ["vsanna2", "gaaamii", "karur4n"]
-audio: http://kumocast.jp/audios/33.mp3
+audio: /audios/33.mp3
 description: <a href="https://twitter.com/vsanna2">@vsanna2</a> さんを迎えて、個人開発、Vue.js について話しました。
 number: 33
 ---

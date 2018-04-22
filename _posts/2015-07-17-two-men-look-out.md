@@ -4,7 +4,7 @@ title: 二人の囚人が鉄格子から外を眺めた。 一人は泥を見た
 date: 2015-07-17 00:00:00
 duration: 28分
 members: ['gaaamii', 'karur4n']
-audio: http://kumocast.jp/audios/18.mp3
+audio: /audios/18.mp3
 description: Nuclide, 本の読み方、 本気で変わりたい人の行動イノベーション、肉体マネジメント などについて話しました。
 number: 18
 ---

@@ -4,7 +4,7 @@ title: いけがみさんが来てくれました後編
 date: 2017-07-14 00:00:00
 duration: 51分
 members: ['keicoro', 'gaaamii', 'karur4n']
-audio: http://kumocast.jp/audios/38.mp3
+audio: /audios/38.mp3
 description: <a href="https://scrapbox.io/kimaben/keicoro" target="blank">いけがみ</a>さんを迎えて、Scrapboxミートアップ, Redash, Learning Musicなどについて話しました
 number: 38
 ---

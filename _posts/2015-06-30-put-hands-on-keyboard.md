@@ -4,7 +4,7 @@ title: キーボードの上から手を動かしたくないですよね
 date: 2015-06-30 00:00:00
 duration: 1時間2分
 members: ['_ayato_p', 'gaaamii', 'karur4n']
-audio: http://kumocast.jp/audios/16.mp3
+audio: /audios/16.mp3
 description: <a href="http://twitter.com/_ayato_p" target="blank">@_ayato_p</a>さんを迎えて、キーボードへのこだわり、勉強会、エディタ、結婚生活などについて話しました
 number: 16
 ---
