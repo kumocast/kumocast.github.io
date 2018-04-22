@@ -3,9 +3,10 @@ title: くもキャスト
 # email: your-email@domain.com
 description: プログラミングを学ぶ若者たちがゆるくつながってお話をするポッドキャストです
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://kumocast.jp" # the base hostname & protocol for your site
+url: "https://kumocast.jp" # the base hostname & protocol for your site
 twitter_username: kumocast
 github_username: kumocast
+permalink: /:year/:month/:title
 
 members:
   gaaamii:
