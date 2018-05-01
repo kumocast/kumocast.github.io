@@ -3,7 +3,7 @@ layout: post
 title: イイ波のってんね
 date: 2018-05-02 00:00:00
 duration: 30分
-members: ['gaaamii', 'karur4n]
+members: ['gaaamii', 'karur4n']
 audio: /audios/43.mp3
 description: 若者文化、Markdown メモ帳、情報共有などについて話しました
 number: 43
