@@ -14,8 +14,8 @@ layout: null
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="https://raw.githubusercontent.com/MokumokuCloud/podcasting/master/images/coverart.png" />
     <itunes:keywords>Web,若者,プログラミング,Podcast</itunes:keywords>
-    <itunes:subtitle>独学でプログラミングを学ぶ若者たちがゆるくお話したりするPodcastです</itunes:subtitle>
-    <itunes:summary>独学でプログラミングを学ぶ若者たちがゆるくお話したりするPodcastです</itunes:summary>
+    <itunes:subtitle>{{ site.description | xml_escape }}</itunes:subtitle>
+    <itunes:summary>{{ site.description | xml_escape }}</itunes:summary>
     <itunes:category text="Technology">
         <itunes:category text="Tech News" />
     </itunes:category>
